@@ -1,3 +1,61 @@
 *.csv
 *.png
 .env
+# -----------------------------
+# Arquivos Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# -----------------------------
+# Configurações locais
+# -----------------------------
+config.json
+*.local
+*.ini
+*.cfg
+
+# -----------------------------
+# Dados e arquivos temporários
+# -----------------------------
+*.csv
+*.xlsx
+*.db
+*.sqlite
+/tmp/
+temp/
+*.tmp
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+logs/
+
+# -----------------------------
+# Output de gráficos e relatórios
+# -----------------------------
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# -----------------------------
+# VS Code / IDE
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------------
+# Arquivos do sistema
+# -----------------------------
+.DS_Store
+Thumbs.db

@@ -34,8 +34,8 @@ Os dados podem ser visualizados diretamente no **Power BI** para análise de evo
 
 ```bash
 export PG_USER=postgres
-export PG_PASSWORD='Cassio2002'
-export PG_HOST=database-1.crukqu8ay4l0.sa-east-1.rds.amazonaws.com
+export PG_PASSWORD='Xamp208s'
+export PG_HOST=database-1.cuu84l0.sa-east-1.rds.amazonaws.com
 export PG_PORT=5432
 export PG_DBNAME=postgres
 
